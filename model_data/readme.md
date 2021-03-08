@@ -1,0 +1,3 @@
+- The scenario generation uses ontario_phu.gpkg, ontario_phu_clean.csv, ontario_phu_adjacency.csv to generate scenario.json
+- To visualize results with the GIS viewer - generate a geojson from the gpkg file using the script gpkg2geojson.py in data_processing/shapefile, and upload with visualization.json, messages.log, and scenario.json
+- the geojson name must match what is specified by visualization.json

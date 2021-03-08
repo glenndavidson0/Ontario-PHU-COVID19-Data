@@ -1,0 +1,2 @@
+- Generates *adjacency.csv using the boundary file and id attribute label specified as input arguments to the script adjacency.py
+- The default run parameters in adjacency.sh use the gpkg in the shapefile folder and searches for the attribute "PHU_ID"
