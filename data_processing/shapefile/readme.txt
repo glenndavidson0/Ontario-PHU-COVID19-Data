@@ -1,0 +1,3 @@
+- edit boundary file so that PHU_ID is string datatype instead of integer - must be done with qgis
+- generate a .gpkg and a .geojson of the .shp boundary file with this change
+- the python scripts shp2gpkg and shp2geojson can be used for quick conversions given that the ids are already string

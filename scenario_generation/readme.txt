@@ -1,0 +1,3 @@
+- To run generate_cadmium_json_g3.py, geopandas must be included in the python environment
+- generate_cadmium_json_g3.py reads the results of the data processing stage from the model_data folder and generates a scenario.json
+- the contents of the input folder can be used to change the inital infected cell state (infectedCell.json), and the default simulation configuration parameters (default.json)
