@@ -744,6 +744,7 @@
             }
         },
         "2270": {
+            "name": "York Region Public Health",
             "state": {
                 "population": 1225797,
                 "age_group_proportions": [
@@ -1146,6 +1147,7 @@
             }
         },
         "5183": {
+            "name": "Huron Perth Health Unit",
             "state": {
                 "population": 139757,
                 "age_group_proportions": [
@@ -1566,6 +1568,7 @@
             }
         },
         "2265": {
+            "name": "Region of Waterloo, Public Health",
             "state": {
                 "population": 584361,
                 "age_group_proportions": [
@@ -1977,6 +1980,7 @@
             }
         },
         "4913": {
+            "name": "Southwestern Public Health",
             "state": {
                 "population": 211498,
                 "age_group_proportions": [
@@ -2397,6 +2401,7 @@
             }
         },
         "2237": {
+            "name": "Hamilton Public Health Services",
             "state": {
                 "population": 592163,
                 "age_group_proportions": [
@@ -2817,6 +2822,7 @@
             }
         },
         "2262": {
+            "name": "Thunder Bay District Health Unit",
             "state": {
                 "population": 149960,
                 "age_group_proportions": [
@@ -3210,6 +3216,7 @@
             }
         },
         "2253": {
+            "name": "Peel Public Health",
             "state": {
                 "population": 1605952,
                 "age_group_proportions": [
@@ -3621,6 +3628,7 @@
             }
         },
         "2242": {
+            "name": "Lambton Public Health",
             "state": {
                 "population": 130964,
                 "age_group_proportions": [
@@ -4014,6 +4022,7 @@
             }
         },
         "2266": {
+            "name": "Wellington-Dufferin-Guelph Health Unit",
             "state": {
                 "population": 311908,
                 "age_group_proportions": [
@@ -4443,6 +4452,7 @@
             }
         },
         "2227": {
+            "name": "Brant County Health Unit",
             "state": {
                 "population": 155203,
                 "age_group_proportions": [
@@ -4845,6 +4855,7 @@
             }
         },
         "2244": {
+            "name": "Middlesex-London Health Unit",
             "state": {
                 "population": 507524,
                 "age_group_proportions": [
@@ -5247,6 +5258,7 @@
             }
         },
         "2261": {
+            "name": "Sudbury and District Health Unit",
             "state": {
                 "population": 199023,
                 "age_group_proportions": [
@@ -5649,6 +5661,7 @@
             }
         },
         "2235": {
+            "name": "Haliburton, Kawartha, Pine Ridge District Health Unit",
             "state": {
                 "population": 188937,
                 "age_group_proportions": [
@@ -6060,6 +6073,7 @@
             }
         },
         "2246": {
+            "name": "Niagara Region Public Health Department",
             "state": {
                 "population": 472485,
                 "age_group_proportions": [
@@ -6444,6 +6458,7 @@
             }
         },
         "2240": {
+            "name": "Chatham-Kent Health Unit",
             "state": {
                 "population": 106317,
                 "age_group_proportions": [
@@ -6846,6 +6861,7 @@
             }
         },
         "2241": {
+            "name": "Kingston, Frontenac and Lennox and Addington Health Unit",
             "state": {
                 "population": 212719,
                 "age_group_proportions": [
@@ -7239,6 +7255,7 @@
             }
         },
         "2268": {
+            "name": "Windsor-Essex County Health Unit",
             "state": {
                 "population": 424830,
                 "age_group_proportions": [
@@ -7614,6 +7631,7 @@
             }
         },
         "2255": {
+            "name": "Peterborough Public Health",
             "state": {
                 "population": 147977,
                 "age_group_proportions": [
@@ -8007,6 +8025,7 @@
             }
         },
         "2233": {
+            "name": "Grey Bruce Health Unit",
             "state": {
                 "population": 169884,
                 "age_group_proportions": [
@@ -8400,6 +8419,7 @@
             }
         },
         "2258": {
+            "name": "Eastern Ontario Health Unit",
             "state": {
                 "population": 208711,
                 "age_group_proportions": [
@@ -8784,6 +8804,7 @@
             }
         },
         "2247": {
+            "name": "North Bay Parry Sound District Health Unit",
             "state": {
                 "population": 129752,
                 "age_group_proportions": [
@@ -9186,6 +9207,7 @@
             }
         },
         "2251": {
+            "name": "Ottawa Public Health",
             "state": {
                 "population": 1054656,
                 "age_group_proportions": [
@@ -9579,6 +9601,7 @@
             }
         },
         "2243": {
+            "name": "Leeds, Grenville and Lanark District Health Unit",
             "state": {
                 "population": 173170,
                 "age_group_proportions": [
@@ -9981,6 +10004,7 @@
             }
         },
         "2249": {
+            "name": "Northwestern Health Unit",
             "state": {
                 "population": 87675,
                 "age_group_proportions": [
@@ -10356,6 +10380,7 @@
             }
         },
         "2234": {
+            "name": "Haldimand-Norfolk Health Unit",
             "state": {
                 "population": 114081,
                 "age_group_proportions": [
@@ -10758,6 +10783,7 @@
             }
         },
         "2263": {
+            "name": "Timiskaming Health Unit",
             "state": {
                 "population": 32689,
                 "age_group_proportions": [
@@ -11151,6 +11177,7 @@
             }
         },
         "2257": {
+            "name": "Renfrew County and District Health Unit",
             "state": {
                 "population": 108631,
                 "age_group_proportions": [
@@ -11580,6 +11607,7 @@
             }
         },
         "3895": {
+            "name": "Toronto Public Health",
             "state": {
                 "population": 3120358,
                 "age_group_proportions": [
@@ -11973,6 +12001,7 @@
             }
         },
         "2236": {
+            "name": "Halton Region Health Department",
             "state": {
                 "population": 619087,
                 "age_group_proportions": [
@@ -12366,6 +12395,7 @@
             }
         },
         "2238": {
+            "name": "Hastings and Prince Edward Counties Health Unit",
             "state": {
                 "population": 168493,
                 "age_group_proportions": [
@@ -12768,6 +12798,7 @@
             }
         },
         "2260": {
+            "name": "Simcoe Muskoka District Health Unit",
             "state": {
                 "population": 599589,
                 "age_group_proportions": [
@@ -13206,6 +13237,7 @@
             }
         },
         "2230": {
+            "name": "Durham Region Health Department",
             "state": {
                 "population": 712402,
                 "age_group_proportions": [
@@ -13617,6 +13649,7 @@
             }
         },
         "2256": {
+            "name": "Porcupine Health Unit",
             "state": {
                 "population": 83441,
                 "age_group_proportions": [
@@ -14019,6 +14052,7 @@
             }
         },
         "2226": {
+            "name": "Algoma Public Health Unit",
             "state": {
                 "population": 114434,
                 "age_group_proportions": [

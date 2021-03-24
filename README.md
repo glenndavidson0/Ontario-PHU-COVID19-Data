@@ -3,7 +3,7 @@ Ontario Public Health Unit COVID-19 Dataset
 
 ***Description:***
 This repository contains one publicly available COVID-19 dataset for the Geography-Based-SEIRDS model
-https://github.com/glenndavidson0/Geography-Based-SERIDS
+https://github.com/SimulationEverywhere-Models/Geography-Based-SEIRDS
 
 ***What a raw dataset contains:***
 - A Geographical Boundary File for the specified area.
